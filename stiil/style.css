@@ -1,0 +1,15 @@
+head {
+    color: gold;
+}
+
+h3 {
+    color: rgba(0, 161, 161, 0.507);
+    font-size: xx-large;
+    font-style: italic;
+    font-size-adjust: inherit;
+    font-weight: bold;
+}
+
+body {
+    background-image: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/563120/45ef1bb398f23f57aa159afdb116dd963c193456.jpg);
+}
